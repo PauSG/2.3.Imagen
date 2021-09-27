@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Imagen"
         mc:Ignorable="d"
         Icon="asets/monitor_window.ico"
-        Title="MainWindow" Height="450" Width="800">
+        Title="2.3.Imagen" Height="450" Width="800">
     <Grid>
         <Image x:Name="Episodio4Image" Source="asets/episodioIV.jpg" HorizontalAlignment="Left" Height="349" Margin="10,40,0,0" VerticalAlignment="Top" Width="479" Stretch="Fill"/>
         <RadioButton x:Name="AltaRadioButton" IsChecked="True" GroupName="Opacidad" Content="Alta" HorizontalAlignment="Left" Margin="564,100,0,0" VerticalAlignment="Top" Checked="AltaRadioButton_Checked"/>
